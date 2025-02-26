@@ -1,0 +1,44 @@
+q   1*{
+    margin-bottom:5px;
+    margin-top: 5px;
+}
+body{
+    background-image:url(portfolio.jpg);
+}
+section{
+    width: 1000px;
+    background:aquamarine;
+    margin-left: 250px;
+    font-size: large;
+    line-height:25px;}
+  
+#div1{
+    margin-left:670px;
+    margin-top: 40px;
+
+}
+#h1{
+    text-align: center;
+}
+#h2{
+    text-align: center;
+    ;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+}
+footer{
+    text-align: center;
+    background: #3b02c1;
+    height: 70px;
+    margin: bottom 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: bisque;
+    padding-top: 22px;
+}
+.img{
+    margin-right:130px;
+}
